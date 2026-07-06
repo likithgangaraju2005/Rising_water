@@ -96,4 +96,11 @@ python test.py
 ---
 
 ## 👨‍💻 Author
-likith gangaraju
+- likith gangaraju
+- bhuthotti kalyan
+- kommoddin mohammod anees
+- sadhikuti vijay kumar
+- moduboina sai sudheer
+
+---
+## Thank you for view this content....
